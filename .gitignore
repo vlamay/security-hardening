@@ -1,0 +1,6 @@
+*.log
+*.retry
+compliance_report.json
+secrets/
+*.key
+*.pem
